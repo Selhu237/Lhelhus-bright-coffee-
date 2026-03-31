@@ -9,7 +9,7 @@ Bringing the question?solving the question while creating a 3D visual solution f
 
 3-The sum product of each month will help the CEO to track which month has the most revenue.
 
-4-Peak times are gonna help to make decision for rosters for each shifts accordingly to for  staff members of Coffee Shop to avoid over staff when it's not busy 
+4-Peak times are gonna help to make decision for rosters for each shifts accordingly  for  staff members of Coffee Shop to avoid over staff when it's not busy 
 
 5-most sold product and least sold product will help to manage food cost for coffee shop .
 
