@@ -10,4 +10,4 @@ Bringing the question?solving the question while creating a 3D visual solution f
 5-most sold product and least sold product will help to manage food cost for coffee shop .
 
 
-4-The total number sales and revenue will hepl the CEO to get total money the stores makes on each months. 
+6-The total number sales and revenue will hepl the CEO to get total money the stores makes on each months. 
